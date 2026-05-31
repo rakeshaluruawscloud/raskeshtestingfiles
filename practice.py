@@ -25,10 +25,10 @@ def main():
     # Uncomment the line below once you implement add_numbers
     # print(f"Adding {num1} and {num2}: {add_numbers(num1, num2)}")
 
-#if __name__ == "__main__":
-#    main()
-#def add_numbers(a, b):
-#    return a + b
+if __name__ == "__main__":
+    main()
+def add_numbers(a, b):
+   return a + b
 def welcome_message():
     print("Welcome to your Git/GitHub Practice Session!")
     print("--------------------------------------------")
