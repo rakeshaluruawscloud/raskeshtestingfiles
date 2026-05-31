@@ -28,7 +28,11 @@ def main():
 if __name__ == "__main__":
     main()
 def add_numbers(a, b):
+<<<<<<< HEAD
    return a + b
 def welcome_message():
     print("Welcome to your Git/GitHub Practice Session!")
     print("--------------------------------------------")
+=======
+    return a + b
+>>>>>>> parent of e8d81b0 (rebasetesting)
